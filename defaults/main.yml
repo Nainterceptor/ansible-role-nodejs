@@ -1,2 +1,7 @@
 ---
 # defaults file for Nainterceptor.nodejs
+nvm_version: v0.31.0
+nodejs_version: 5.0
+nodejs_user_name: nodejs
+nodejs_group_name: nodejs
+nodejs_home_path: "/home/nodejs"
